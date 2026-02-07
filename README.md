@@ -1,7 +1,7 @@
 # **Aggression Effects in Experimental Data**
 
 ## **Project Summary**
-Conducted conducted two-way ANOVA in Python to analyze demographic and situational effects on behavioral aggression in experimental data 
+Conducted two-way ANOVA in Python to analyze demographic and situational effects on behavioral aggression in experimental data 
 
 ## Skills
 Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
@@ -10,7 +10,7 @@ Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
 
 ## **Project Deliverables**
 
-* **[(Aggression Effects in Experimental Data.pdf)](Aggression Effects in Experimental Data.pdf](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
+* **[Aggression Effects in Experimental Data (PDF)](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
   
-* **[(Agression Effects Python Code.py)](Aggression Effects in Experimental Data.pdf](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/49000de8da9adb96bb66ff6d7fa8df2b1e559e86/Agression%20Effects%20Python%20Code.py)**
+* **[Agression Effects Python Code.py](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/49000de8da9adb96bb66ff6d7fa8df2b1e559e86/Agression%20Effects%20Python%20Code.py)**
 
