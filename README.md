@@ -12,5 +12,5 @@ Data Analytics, Experimental Desgins, Statical Modelling, Python
 
 * **[Analysis Write Up(PDF)](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
   
-* **[Analysis Python Code (.PY)][(https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
+* **[Analysis Python Code (.PY)](https://github.com/Prashasti08/Aggression-Effects-in-Experimental-Data/blob/892f60e13645c56e4aab939da565fb3fabf5ff9a/Aggression%20Effects%20in%20Experimental%20Data.pdf)**
 
